@@ -6,8 +6,10 @@
   "plugins": [
     {
       "name": "linear-workflow",
-      "source": "github",
-      "repo": "bahamoth/claude-linear-workflow",
+      "source": {
+        "source": "github",
+        "repo": "bahamoth/claude-linear-workflow"
+      },
       "description": "Linear issue-driven development workflow"
     }
   ]
