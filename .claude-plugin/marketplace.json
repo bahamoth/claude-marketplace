@@ -10,7 +10,7 @@
         "source": "github",
         "repo": "bahamoth/claude-linear-workflow"
       },
-      "description": "Linear issue-driven development workflow"
+      "description": "Linear issue-tracked development workflow"
     }
   ]
 }
