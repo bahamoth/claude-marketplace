@@ -19,6 +19,14 @@
         "repo": "bahamoth/claude-fact-checker"
       },
       "description": "Automatic and manual document fact-checking against codebase and external sources"
+    },
+    {
+      "name": "python-dev",
+      "source": {
+        "source": "github",
+        "repo": "bahamoth/cc-dev-tools"
+      },
+      "description": "Modern Python development conventions — uv, ruff, ty/pyright, typed Python 3.12+ with lifecycle-scoped hooks"
     }
   ]
 }
