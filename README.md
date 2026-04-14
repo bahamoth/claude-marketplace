@@ -13,6 +13,7 @@ A curated collection of Claude Code plugins.
 | Plugin | Description | Source |
 |--------|-------------|--------|
 | [linear-workflow](https://github.com/bahamoth/claude-linear-workflow) | Linear issue-tracked development workflow | bahamoth/claude-linear-workflow |
+| [nc-pptx-theme](https://github.com/bahamoth/claude-nc-pptx-theme) | Generate NC(NCSOFT) branded PPTX presentations with CI-compliant colors, fonts, and layouts | bahamoth/claude-nc-pptx-theme |
 
 ## Adding a Plugin
 

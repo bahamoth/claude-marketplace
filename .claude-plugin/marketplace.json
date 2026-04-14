@@ -27,6 +27,14 @@
         "repo": "bahamoth/cc-dev-tools"
       },
       "description": "Modern development conventions and toolchain enforcement — Python, Rust, TypeScript and more"
+    },
+    {
+      "name": "nc-pptx-theme",
+      "source": {
+        "source": "github",
+        "repo": "bahamoth/claude-nc-pptx-theme"
+      },
+      "description": "Generate NC(NCSOFT) branded PPTX presentations with CI-compliant colors, fonts, and layouts"
     }
   ]
 }
