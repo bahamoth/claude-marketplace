@@ -35,6 +35,14 @@
         "repo": "bahamoth/claude-nc-pptx-theme"
       },
       "description": "Generate NC(NCSOFT) branded PPTX presentations with CI-compliant colors, fonts, and layouts"
+    },
+    {
+      "name": "tone-fix",
+      "source": {
+        "source": "github",
+        "repo": "bahamoth/tone-fix"
+      },
+      "description": "Remove AI-sounding phrasing and translationese from Korean documents, infographics, and slide decks"
     }
   ]
 }
